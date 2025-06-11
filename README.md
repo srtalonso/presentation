@@ -48,7 +48,7 @@ Estoy abierta a nuevas oportunidades laborales y prácticas que me permitan dar 
 
 ## 📫 ¿Conectamos?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Azucena_Alonso-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/tu-perfil)  
+[![LinkedIn](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B3ifSf%2BrbRnuY1Vs3MH9LBQ%3D%3D)  
 ✉️ azucena.alonsodg@gmail.com
 
 ---
