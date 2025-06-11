@@ -1,3 +1,8 @@
+
+
+![Banner](./photo.jpg)
+
+
 # ✨ Hola, 👋 soy Azucena Alonso
 
 💻 Desarrolladora Full Stack en formación  
