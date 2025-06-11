@@ -1,6 +1,4 @@
-# ✨ Hola, soy Azucena Alonso
-
-![Presentación]
+# ✨ Hola, 👋 soy Azucena Alonso
 
 💻 Desarrolladora Full Stack en formación  
 🌸 Apasionada por la tecnología, el diseño y los retos que impulsan el crecimiento  
